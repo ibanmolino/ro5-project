@@ -1,4 +1,4 @@
 <?php
-    $name = "Iban";
+    $name = "Eric";
     echo "My name is $name!";
 ?>
